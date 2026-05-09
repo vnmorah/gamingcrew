@@ -13,12 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Gaming Crew Vienna
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Play board games in Vienna (and in English!). We are a safe and inclusive space for everyone looking to connect with other board game enthusiasts. We teach, learn, and play medium to heavy games, with an occasional party/easy game as a filler.
+Newbies and experienced gamers are all welcome!
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -58,9 +57,15 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Val - Gaming Crew Vienna"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Playing games together since April 18, 2024, this group originally started as a women only community. After some time,
+  we decided to open the group to everyone who would like to join (like you!) and since then we have spent amazing game days together, 
+  occassional social event, and built friendships too. We are proud of having a majority of women/female players at our tables
+  and we are always encouraging more to join us.
+  Newbies and experienced gamers are all welcome!
+  We organize via Discord, play every second weekend and alternate Saturdays/Sundays"
+
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
